@@ -1,0 +1,6 @@
+streamlit
+pandas
+plotly
+requests
+# sqlite3는 파이썬 표준 라이브러리에 포함되어 있어 별도 명시가 필요 없으나, 
+# 환경에 따라 필요할 수 있으므로 명시하지 않거나 기본 환경을 따릅니다.
